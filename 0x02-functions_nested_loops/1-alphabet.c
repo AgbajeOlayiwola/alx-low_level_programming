@@ -5,9 +5,9 @@
  *
  * Return: Always 0.
  */
-int main(void)
+void print_alphabet(void)
 {
-   	char ch;
+	char ch;
 
 	ch = 'a';
 
