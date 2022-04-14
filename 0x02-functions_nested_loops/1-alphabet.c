@@ -2,7 +2,8 @@
 
 /**
  * main - check the code
- *Description: print _alphabet
+* Description: Uses the main header file, that brings in the _putchar
+ *  funtction.
  * Return: Always 0.
  */
 void print_alphabet(void)
