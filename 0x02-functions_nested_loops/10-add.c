@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  *add - sum of two numbers.
  *@n: number to be added.
@@ -7,7 +6,8 @@
  *
  *Return: sum.
  */
-int add(int a, int b)
+int add(int n, int p)
 {
-	return (a + b);
+int sum = n + p;
+return (sum);
 }
