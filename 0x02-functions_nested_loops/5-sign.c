@@ -2,8 +2,8 @@
 
 /**
  * main - check the code.
- *
- * Return: Always 0.
+ * Description: A function that prints the alphabet, in lowercase
+ * Return: int
  */
 int print_sign(int n)
 {
