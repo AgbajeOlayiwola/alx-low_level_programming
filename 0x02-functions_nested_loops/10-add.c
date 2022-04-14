@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
- * Return: int
+ *add - sum of two numbers.
+ *@n: number to be added.
+ *@p: number to be added.
+ *
+ *Return: sum.
  */
 int add(int a, int b)
 {

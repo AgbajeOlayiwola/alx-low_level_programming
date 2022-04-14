@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
+ * _abs - Entry point
+ * @n: n is an integer
+ * Description: prints the absolute value of an integer
  * Return: int
  */
 int _abs(int n)

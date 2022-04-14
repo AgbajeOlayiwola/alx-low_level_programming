@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
- * Return: int
+ * print_last_digit - prints the last digit of a number
+ * @n: n is an integer
+ * Description: a function that prints the last digit of a number
+ * Return: integer
  */
 int print_last_digit(int n)
 {

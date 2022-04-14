@@ -1,10 +1,14 @@
+#include <stdlib.h>
+#include <stdio.h>
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
- * Return: int
- */
+ * print_to_98 - print all real numbers to 98.
+ * @n: is the given number and we go up to 98.
+ *
+ * Return: no return just print.
+*/
+
 void print_to_98(int n)
 {
 	int i;

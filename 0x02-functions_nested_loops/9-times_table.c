@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
- * Return: void
+ * times_table - prtint times table 0 to 9.
+ *
+ * Return: no return.
  */
 void times_table(void)
 {

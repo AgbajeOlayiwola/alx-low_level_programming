@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
- * Return: void
+ *jack_bauer -  count down 24hrs
+ *
+ *Return: void.
  */
 
 void jack_bauer(void)
