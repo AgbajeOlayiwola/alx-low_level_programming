@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
- * Return: int
+ * _isalpha - Entry point
+ * @c: the integer value it receives
+ * Description: A function that checks for alphabetic character
+ * Return: 1 if true. 0 if false
  */
 int _isalpha(int c)
 {

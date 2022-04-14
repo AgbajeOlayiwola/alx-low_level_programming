@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
- * Return: int
+ * print_sign - sign of a number
+ * @n: carrier variable
+ * Description: A function that prints the sign of a number
+ * Return: 1 if n>0, 0 if n == 0, -1 if n<0
  */
 int print_sign(int n)
 {
