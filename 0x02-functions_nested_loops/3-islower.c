@@ -2,7 +2,7 @@
 
 /**
  * main - check the code.
- * Description: A function that prints the alphabet, in lowercase
+ * Description: A function that checks for lowercase character.
  * Return: int
  */
 int _islower(int c)
