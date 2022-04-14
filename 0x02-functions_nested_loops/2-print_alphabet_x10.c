@@ -2,8 +2,8 @@
 
 /**
  * main - check the code.
- *
- * Return: Always 0.
+ * Description: A function that prints 10 times the alphabet, in lowercase
+ * Return: void
  */
 void print_alphabet_x10(void)
 {
