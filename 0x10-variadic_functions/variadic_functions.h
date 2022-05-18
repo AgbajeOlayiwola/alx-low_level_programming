@@ -9,7 +9,7 @@ void print_strings(const char *separator, const unsigned int n, ...);
 
 void print_all(const char * const format, ...);
 
-#include<stdarg.h>
+#include <stdarg.h>
 
 /**
  * struct print - multiple choice print
