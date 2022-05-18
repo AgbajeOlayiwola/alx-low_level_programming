@@ -1,3 +1,5 @@
+#ifndef VARIADIC_FUNCTIONS_H
+#define VARIADIC_FUNCTIONS_H
 /*
  * File: 1-print_numbers.c
  */
